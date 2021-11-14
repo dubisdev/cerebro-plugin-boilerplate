@@ -16,10 +16,12 @@ For using this repository as a template
 - Choose a repository visibility.
 - Click Create repository from template.
 
+To start developing:
+
 - Install all the dependencies by running `yarn` or `npm i`
 - Start developing by using `yarn start` or `npm start`
 
-For building your proyect for production:
+For building your project for production:
 
 - Run `npm prepublish` or `yarn prepublish`
 
